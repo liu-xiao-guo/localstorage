@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=localstorage
+Exec=localstorage
+Icon=localstorage/localstorage.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
